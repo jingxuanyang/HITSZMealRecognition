@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HitMealDataset400x300</folder>
+	<filename>173.jpg</filename>
+	<path>D:\programs\matlab\ai2020\hitmeal\HitMealDataset400x300\173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>26</ymin>
+			<xmax>216</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HitMealDataset400x300</folder>
+	<filename>118.jpg</filename>
+	<path>D:\Programs\matlab\deep-learning\hitmeal\HitMealDataset400x300\118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ymc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>49</ymin>
+			<xmax>374</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
